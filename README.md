@@ -37,4 +37,3 @@ I'm zub4t/sushll a tech passionate, M.Sc in Network and System graduated from th
 
 
 
-[![@sushll0's Holopin board](https://holopin.me/sushll0)](https://holopin.io/@sushll0)
