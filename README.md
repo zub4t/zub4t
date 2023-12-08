@@ -9,7 +9,7 @@
 
 
 I'm zub4t/sushll a tech passionate, M.Sc in Network and System graduated from the U.Porto 
-<img src="https://slackmojis.com/emojis/52977-portugal_2008/download" width="30"/>. As usual, so as not to break the habit, I am also a coffee lover. <br/>
+<img src="https://slackmojis.com/emojis/52977-portugal_2008/download" width="30"/>.
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/coffee.gif" width="200">
 <h2>Comfortable programming at <img src="https://slackmojis.com/emojis/12068-mild-panic-intensifies/download" width="30"><h2>
 <p>
