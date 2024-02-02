@@ -1,4 +1,3 @@
-![visitors](https://page-views.glitch.me/badge?page_id=zub4t.profile)
 
 <img src="https://slackmojis.com/emojis/43039-animegirl/download" width="60"/> 
 
